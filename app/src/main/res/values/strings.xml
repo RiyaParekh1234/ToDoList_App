@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoList_1</string>
+    <string name="fabBtn">AddToList</string>
+    <string name="tasks">Tasks</string>
+    <string name="save">Save</string>
+    <string name="enter_task">enter task</string>
+</resources>
